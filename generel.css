@@ -48,14 +48,14 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 0.5rem 1rem;
-  background-color: #53ada3;
+  background-color: #4d96dd;
   text-align: center;
 }
 
 .headerH1 h1 span {
   display: inline-block;
   transform: scaleX(-1);
-  color: #dc70df;
+  color: #adeec8;
   font-size: 4.5rem;
 }
 
@@ -131,7 +131,7 @@ h2 {
 }
 
 h3 {
-  font-size: 2rem;
+  font-size: 1.5rem;
   line-height: 1.2;
 }
 
